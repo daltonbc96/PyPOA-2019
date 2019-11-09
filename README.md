@@ -15,3 +15,11 @@
 **Recomendações de Leituras:**
 - [Text Analytics with Python: A Practitioner's Guide to Natural Language Processing (2nd Ed.)](https://www.amazon.com/Text-Analytics-Python-Practitioners-Processing/dp/1484243536)
 - [Inteligência Artificial nas Ciências da Saúde: aplicações na psicologia e psiquiatria](https://medium.com/ensina-ai/inteligencia-artificial-saude-psicologia-psiquiatria-23dbdbcb2e17)
+
+
+<br/><br/><br/>
+
+**Contato:**
+ - Prof. Dr. Wagner de Lara Machado: wag.lm.psico@gmail.com
+ - Dalton Breno Costa: dalton.bc96@gmail.com
+
